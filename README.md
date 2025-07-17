@@ -15,7 +15,7 @@ A sample Netflix dataset in CSV format including:
 - Release Year
 - Start and End Year
 - Locations
-  <a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/netflix_titles.csv"> Netflix Streaming Data</a>
+- <a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/netflix_titles.csv"> Netflix Streaming Data</a>
   
 ## ❓ Questions Answered (KPIs)
 - Total number of titles on Netflix?
