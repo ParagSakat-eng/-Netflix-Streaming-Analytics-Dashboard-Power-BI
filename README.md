@@ -1,7 +1,9 @@
 # -Netflix-Streaming-Analytics-Dashboard-Power-BI
 ## 📌 Project Objective:
 This project explores the Netflix content library using Power BI. The dashboard highlights key metrics such as content type (Movies vs TV Shows),  genre distribution, ratings, regional origin, and historical trends. The goal is to visualize how Netflix has evolved over time and understand its content strategies.
-##💡 Tip:This is not real-time or official Netflix data. It is a sample dataset used for learning and visualization purposes only.
+
+## 💡 Tip:This is not real-time or official Netflix data. It is a sample dataset used for learning and visualization purposes only.
+
 ## 📂 Dataset Used
 A sample Netflix dataset in CSV format including:
 - Title
@@ -14,6 +16,7 @@ A sample Netflix dataset in CSV format including:
 - Start and End Year
 - Locations
   <a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/netflix_titles.csv"> Netflix Streaming Data</a>
+  
 ## ❓ Questions Answered (KPIs)
 - Total number of titles on Netflix?
 - Content distribution: Movies vs TV Shows?
@@ -52,17 +55,15 @@ A sample Netflix dataset in CSV format including:
 - Most content from: United States, India, UK
 - Massive content growth after 2015
   
-
 ## ✅ Final Conclusion
 
 Netflix's library emphasizes **adult-rated content**, with a strong focus on **documentary and drama** genres. Its primary market is the **U.S.**, with selective expansion globally. This dashboard provides valuable insights into Netflix's evolving content strategy.
-
----
 
 ## 🛠️ Tools Used
 - Microsoft Power BI
 - Power Query
 - DAX
+  
 ## 📷 Dashboard Preview
 <a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/Netflix%20DashBoard%20SS.PNG"> Dashboard Preview </a>
 
