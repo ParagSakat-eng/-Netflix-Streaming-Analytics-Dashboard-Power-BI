@@ -22,6 +22,8 @@ A sample Netflix dataset in CSV format including:
 - What are the top content-producing countries?
 - How has Netflix grown over time?
 - What are the start and end years of available titles?
+- DashBoard Interaction <a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/Netflix%20Dashboard.pdf"> View DashBoard </a>
+  
 
 ## ⚙️ Process
 
@@ -62,5 +64,5 @@ Netflix's library emphasizes **adult-rated content**, with a strong focus on **d
 - Power Query
 - DAX
 ## 📷 Dashboard Preview
+<a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/Netflix%20DashBoard%20SS.PNG"> Dashboard Preview </a>
 
-![Netflix Dashboard](./Netflix DashBoard SS.png)
