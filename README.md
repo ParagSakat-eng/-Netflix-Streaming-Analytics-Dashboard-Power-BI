@@ -14,3 +14,53 @@ A sample Netflix dataset in CSV format including:
 - Start and End Year
 - Locations
   <a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/netflix_titles.csv"> Netflix Streaming Data</a>
+## ❓ Questions Answered (KPIs)
+- Total number of titles on Netflix?
+- Content distribution: Movies vs TV Shows?
+- Which genres dominate Netflix?
+- What are the most common ratings?
+- What are the top content-producing countries?
+- How has Netflix grown over time?
+- What are the start and end years of available titles?
+
+## ⚙️ Process
+
+1. **Power Query**:
+   - Removed nulls/duplicates
+   - Normalized genres
+   - Extracted and cleaned year fields
+
+2. **Data Modeling**:
+   - Created DAX KPIs (e.g., Movie %, Rating counts)
+   - Connected dimension and fact tables
+
+3. **Dashboard Design**:
+   - Donut Chart: Content Type
+   - Bar Charts: Ratings, Genres
+   - Tree Map: Top 10 Countries
+   - Line Chart: Release Trend
+   - Theme: Netflix-style dark UI
+
+  ## 🔍 Project Insights
+
+- **Total Titles**: 6,169
+- 68% Movies, 32% TV Shows
+- Top Genres: Documentaries, Comedy, Dramas
+- Dominant Ratings: TV-MA, TV-14
+- Most content from: United States, India, UK
+- Massive content growth after 2015
+  
+
+## ✅ Final Conclusion
+
+Netflix's library emphasizes **adult-rated content**, with a strong focus on **documentary and drama** genres. Its primary market is the **U.S.**, with selective expansion globally. This dashboard provides valuable insights into Netflix's evolving content strategy.
+
+---
+
+## 🛠️ Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
+## 📷 Dashboard Preview
+
+![Netflix Dashboard](./Netflix DashBoard SS.png)
