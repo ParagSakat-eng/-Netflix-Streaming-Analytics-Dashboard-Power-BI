@@ -65,5 +65,5 @@ Netflix's library emphasizes **adult-rated content**, with a strong focus on **d
 - DAX
   
 ## 📷 Dashboard Preview
-<a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/Netflix%20DashBoard%20SS.PNG"> Dashboard Preview </a>
+> 🖼️ Screenshot of the Tableau Dashboard: <a href="https://github.com/ParagSakat-eng/-Netflix-Streaming-Analytics-Dashboard-Power-BI/blob/main/Netflix%20DashBoard%20SS.PNG"> Dashboard Preview </a>
 
